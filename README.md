@@ -70,6 +70,11 @@ What factors most influence student performance, and can we accurately predict s
 - Extend analysis to validate findings on additional datasets.
 
 ---
+## **Team Members**
+[Dana Al Rijjal](https://github.com/daaalrijjal)
+<br  />
+[Jouri AlDaghma](https://github.com/jourialdagh)
+
 
 ## **How to Run the Code**
 1. Clone the repository:
