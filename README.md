@@ -53,7 +53,7 @@ What factors most influence student performance, and can we accurately predict s
    - **Top Predictors**:
      - Academic: `G1`, `G2`
      - Behavioral: `goout`
-     - Parental: `Medu`, `Fedu`
+     - Parental: `Medu`, `Famrel`
 
 ---
 
